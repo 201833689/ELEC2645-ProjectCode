@@ -1,6 +1,6 @@
 // Edward Close - 201833689
 // Here is the implementation of my game MAZE FILL, a puzzle game where the user must
-// fully explore a grid styke maze in order to move onto the next level.
+// fully explore a grid style maze in order to move onto the next level.
 #include "Game_2.h"
 #include "InputHandler.h"
 #include "Joystick.h"
